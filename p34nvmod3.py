@@ -1,8 +1,8 @@
-#shriH
-#CDV CarND P3
+#s
+#Vijay D. Udacity CarND: Project 3
 
 #p34nvmod2.py: This is the Nvidia pipeline for P3, becoz of memory limitations in AWS, I added MaxPooling2D() layers.
-#p34nvmod3.py: Added a few dropout layers
+#p34nvmod3.py: Added dropout layers (noted slight erformance decrease but better driving!)
 
 import numpy as np  
 import cv2
