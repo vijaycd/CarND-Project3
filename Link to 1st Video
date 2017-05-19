@@ -1,0 +1,4 @@
+This project uses simulated driving data to train an end-to-end deep learning neural network. 
+Work in progress: what you see was done in 2 days...Such is the power of Keras (and not to mention GPUs).
+
+Don't forget to use headphones to listen to the awesome AI-generated background music. The video is here: https://youtu.be/03tDQiKqvfw
